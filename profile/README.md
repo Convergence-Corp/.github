@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, this is the github organization for Convergence Corp!
+
+This org has a collection of software written to support the Convergence Corp guild in the game Guild Wars 2.
 
 <!--
 
